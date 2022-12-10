@@ -1,0 +1,26 @@
+h1{
+  text-align: center;
+}
+.menu{
+  list-style: none;
+  padding: 0;
+  background: #092327;
+  width: 90%;
+  margin: auto;
+}
+
+.menu li a{
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.menu li{
+  display: inline-block;
+  text-align: center;
+}
+
+.menu li a:hover{
+  background: #023344;
+}

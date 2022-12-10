@@ -1,0 +1,23 @@
+.contenedor-restarante{
+    width: 1170px;
+    height: 370px;
+    margin: 10px 10px 50px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 3px 13px 1px black;
+    display: inline-block;
+    text-align: center;
+
+}
+img{
+    width: 200px;
+    height: 100;
+    background: #fff;
+    padding: 1rem;
+    box-shadow: 0 0.2rem 1.2rem rgba(0,0,0,0.2);
+    
+}
+.contenedor-texto-restaurante{
+    text-align: center;
+    padding: 40px;
+}
